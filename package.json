@@ -1,0 +1,22 @@
+{
+  "name": "ajax-pirates",
+  "version": "1.0.0",
+  "description": "API exercise with a Pirate twist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KristelVanM/AJAX-Pirates.git"
+  },
+  "author": "KristelVanM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KristelVanM/AJAX-Pirates/issues"
+  },
+  "homepage": "https://github.com/KristelVanM/AJAX-Pirates#readme",
+  "dependencies": {
+    "request-promise": "^4.2.5"
+  }
+}
